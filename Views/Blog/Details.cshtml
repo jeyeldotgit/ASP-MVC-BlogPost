@@ -1,0 +1,13 @@
+﻿@model BlogPostMVC.Models.Post
+
+@{
+    ViewData["Title"] = "Post Details";
+}
+
+<h2>@Model.Title</h2>
+
+<p><strong>Author:</strong> @Model.Author</p>
+<p><strong>Content:</strong></p>
+<p>@Model.Content</p>
+
+<a asp-controller="Blog" asp-action="Index">Back to List</a>
