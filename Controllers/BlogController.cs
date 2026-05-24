@@ -58,7 +58,7 @@ namespace BlogPostMVC.Controllers
                     Id = 3,
                     Title = "Building a Blog App",
                     Content = "This is a simple blog application using mock data.",
-                    Author = "Josh Lester Gruta"
+                    Author = "Josh Lester Camposano Gruta"
                 }
             };
 
