@@ -44,14 +44,14 @@ namespace BlogPostMVC.Controllers
                     Id = 1,
                     Title = "My First Blog Post",
                     Content = "This is the content of my first post.",
-                    Author = "Josh Lester Gruta"
+                    Author = "Josh Lester"
                 },
                 new Post
                 {
                     Id = 2,
                     Title = "Learning ASP.NET Core MVC",
                     Content = "MVC stands for Model, View, and Controller.",
-                    Author = "Josh Lester Gruta"
+                    Author = "Josh Lester"
                 },
                 new Post
                 {
